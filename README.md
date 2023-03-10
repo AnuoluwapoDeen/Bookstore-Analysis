@@ -16,7 +16,7 @@ By examining the data in this database, I sought to improve our understanding of
 4. Competitive advantage: Knowing which books are the most popular can give the store manager a competitive advantage over other bookstores in the area. By stocking a larger selection of the most popular books, the store can attract more customers and increase sales.
 5. Performance evaluation: The store manager can use this information to evaluate the performance of the store and individual employees. For example, if a particular employee is consistently selling a large number of copies of a particular book, the store manager may want to recognize and reward that employee for their efforts.
 
-FINDINS
+FINDINDS
 
 Based on the analysis of the bookstore data, I discovered several key findings that can inform business decisions and help optimize sales:
 The most expensive book that was sold, which can help inform pricing strategies and identify high-value items.
