@@ -3,7 +3,7 @@ INTRODUCTION
 
 ![Bookstore](https://user-images.githubusercontent.com/126607220/224434272-87592b9c-96ff-4e0d-bb46-acc85509edf7.jpg)
 
-For this project, I analyzed bookstore data using PostgreSQL to gain insights that can help optimize sales and promote business growth. The database schema used for this project is as follows:
+For this project, I analyzed bookstore data using MySQL to gain insights that can help optimize sales and promote business growth. The database schema used for this project is as follows:
 
 ![Bookstore Schema](https://user-images.githubusercontent.com/126607220/224434453-360e16e0-e371-4ff7-b857-e4f1b63b3587.jpg)
 
